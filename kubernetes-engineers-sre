@@ -1,0 +1,16 @@
+1. Introduction 
+2. Kubernetes Architecture Simplified 
+3. Kubernetes Mistakes Side Effects 
+4. Kubernetes POD Lifecycle 
+5. Understanding Kubernetes Logs (with Cluster level logging architectures)
+6. How To Handle Most Common Errors 
+- ImagePullBackOff 
+- CreateContainerConfigError 
+- CreateContainerError 
+- RunContainerError 
+- CrashLoopBackOff 
+- OOMKilled 
+- Node Disk Pressure 
+- Node Not Ready 
+7. POD Troubleshooting Tactics 
+8. Must Know K8s Troubleshooting Commands
